@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Mohite
 - 👀 I’m interested in app development, game development, web development
-- 🌱 I’m currently learning aws 
+- 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on app development with flutter or game development with godot
 - 📫 You can mail me at abhishekmohite421@gmail.com or dm me at @abhishekmohite421 in instagram
 
